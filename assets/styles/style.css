@@ -264,4 +264,10 @@ input[type=submit]:hover {
     width: auto;
     
   }
+  main{
+
+    overflow: hidden;
+    margin: 15px 25px 0px 25px;
+    
+}
 }
