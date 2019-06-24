@@ -260,6 +260,9 @@ input[type=submit]:hover {
     width: 100%;
     margin-top: 0;
   }
+  article{
+    overflow: none;
+  }
   #article_image{
     width:100%;
     height: auto;
